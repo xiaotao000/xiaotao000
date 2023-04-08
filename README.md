@@ -18,6 +18,10 @@
 
 <code><img height="20" src="https://skillicons.dev/icons?i=vue,react,redux,nodejs,git,mysql,webpack,vite"></code>
 
+**我的开发平台:**
+
+<code><img height="20" src="https://skillicons.dev/icons?i=vscode"></code>
+
 ---
 
 **个人网站与技术社区:**
