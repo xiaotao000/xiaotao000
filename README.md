@@ -2,12 +2,12 @@
 
 <br />
 
-你好， 我是 [Aurora 的程序员](https://juejin.cn/user/3048301855256078) ，出生 00 于后，一位有 1 年工作经验的前端开发工程师。
+你好， 我是 [Aurora 的程序员](https://juejin.cn/user/3048301855256078) ，出生于 00 后，一位有 1 年工作经验的前端开发工程师。
 
 - 💬 如果你对我感兴趣，进一步交流。
 - 📫 我的邮箱: [309503842@qq.com](mailto:309503842@qq.com);
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/3984285870859614)
-
+- 📝 [我的CSDN(开源社区)主页](https://blog.csdn.net/m0_72026822)
   <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 **我的编程语言:**
