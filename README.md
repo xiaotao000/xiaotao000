@@ -23,8 +23,6 @@
 <code><img height="20" src="https://skillicons.dev/icons?i=vscode"></code>
 
 <br />
-<br />
-<br />
 
 ---
 
@@ -32,20 +30,10 @@
 
 - [Aurora 的程序员-Github](https://github.com/xiaotao000)
 - [Aurora 的程序员-掘金](https://juejin.cn/user/3048301855256078)
+- [Aurora 的程序员-CSDN](https://blog.csdn.net/m0_72026822)
 
-
-<br/>
-<br/>
 <br/>
 
 
-<table>
-  <tr>
-    <td>
-      		<img src="https://github-readme-stats.vercel.app/api?username=xiaotao000&show_icons=true&theme=dark&locale=cn" />
-    </td>
-    <td>
-      	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaotao000&theme=dark&layout=compact&locale=cn" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=xiaotao000&show_icons=true&theme=dark&locale=cn" />
+
