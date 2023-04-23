@@ -10,11 +10,13 @@
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 <br />
+<br />
 
 **我的编程语言:**
 
 <code><img height="20" src="https://skillicons.dev/icons?i=js,html,css,scss,ts,jquery"></code>
 
+<br />
 <br />
 
 **我的技术栈:**
@@ -22,11 +24,7 @@
 <code><img height="20" src="https://skillicons.dev/icons?i=vue,react,redux,nodejs,git,mysql,webpack,vite"></code>
 
 <br />
-
-**我的开发平台:**
-
-<code><img height="20" src="https://skillicons.dev/icons?i=vscode"></code>
-
 <br />
+
 
 ---
